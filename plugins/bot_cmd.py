@@ -176,7 +176,7 @@ async def help(client: Client, message: Message):
         ]
     ]
     if SUPPORT_GROUP:
-        buttons.insert(0, [InlineKeyboardButton("•  sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ɢʀᴏᴜᴘ  •", url="https://t.me/Anime_Chat_Raven")])
+        buttons.insert(0, [InlineKeyboardButton("•  sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ɢʀᴏᴜᴘ  •", url="https://t.me/+7a-lbDl5nk8zNDU1")])
 
     try:
         reply_markup = InlineKeyboardMarkup(buttons)
