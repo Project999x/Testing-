@@ -389,7 +389,7 @@ async def autoDelete_settings(client, message):
             )
     except Exception as e:
             reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data = "close")]])
-            await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Urr_Sanjiii</i></b>", reply_markup=reply_markup)
+            await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @WhiteBeard_Sama</i></b>", reply_markup=reply_markup)
             
 
 #Files related settings command
@@ -429,7 +429,7 @@ async def files_commands(client: Client, message: Message):
         )
     except Exception as e:
         reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("•  ᴄʟᴏsᴇ  •", callback_data = "close")]])
-        await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Urr_Sanjiii</i></b>", reply_markup=reply_markup)
+        await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @WhiteBeard_Sama</i></b>", reply_markup=reply_markup)
 
 
 #Request force sub mode commad,,,,,,
@@ -453,7 +453,7 @@ async def handle_reqFsub(client: Client, message: Message):
         
     except Exception as e:
         reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("•  ᴄʟᴏsᴇ  •", callback_data = "close")]])
-        await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Urr_Sanjiii</i></b>", reply_markup=reply_markup)
+        await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @WhiteBeard_Sama</i></b>", reply_markup=reply_markup)
 
 
 # +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
