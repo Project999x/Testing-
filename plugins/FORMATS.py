@@ -2,8 +2,8 @@
 
 #text formatting....
 
-on_pic = "https://envs.sh/omB.jpg"
-off_pic = "https://envs.sh/omB.jpg"
+on_pic = "https://graph.org/file/45cecaed20deb579ffc44-5954e433a9875ea844.jpg"
+off_pic = "https://graph.org/file/a59777891ab103117bd43-8459148929835103d4.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
